@@ -1,4 +1,4 @@
-# jonmatum/matum-vim
+# Get started
 
 ## Run
 ```
