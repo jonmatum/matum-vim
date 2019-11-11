@@ -1,4 +1,4 @@
-FROM jonmatum/matum-shell:latest
+FROM jonmatum/matum-shell:alpha
 
 MAINTAINER Jonatan Mata
 
